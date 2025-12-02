@@ -1,0 +1,187 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+The Green Journal – Desktop Trading Journal Software
+Version 1.0 — Last Updated: 2025-12-02
+Copyright © 2025 The Green Journal. All Rights Reserved.
+
+1. IMPORTANT – READ CAREFULLY
+
+This End-User License Agreement (“Agreement”) is a legal contract between you (“User”) and the creator of The Green Journal (“Developer”).
+By downloading, installing, accessing, or using The Green Journal software (“Software”), you acknowledge that you have read, understand, and agree to be bound by this Agreement.
+
+If you do not agree, do not install or use the Software.
+
+2. LICENSE GRANT
+
+The Developer grants you a personal, non-exclusive, non-transferable, revocable license to:
+
+Install and use the Software on one (1) personal computer or workstation.
+
+Enter, store, view, and export your own personal trading data.
+
+Use the Software for personal or professional trading activities.
+
+This Agreement does not transfer ownership of the Software to you.
+
+3. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+The Software is licensed, not sold.
+All rights, title, and interest in the Software—including code, UI/UX design, database structure, graphics, mascot artwork, sounds, and internal logic—remain exclusively with the Developer.
+
+You agree not to claim ownership, authorship, or original creation of any part of the Software.
+
+4. PERMITTED USE
+
+You may:
+
+Use the Software for legitimate trading and journaling.
+
+Create backups of the application for personal recovery.
+
+Use your own data, screenshots, and files within the application.
+
+You may not:
+
+Sell, rent, lease, loan, sublicense, share, or distribute the Software.
+
+Reproduce or publicly display the Software or its assets.
+
+Use the Software in development of a competing trading journal or analytical tool.
+
+Modify, alter, adapt, translate, or create derivative works.
+
+Reverse engineer, decompile, or attempt to access the source code.
+
+Remove or alter any trademarks, copyright notices, or branding.
+
+Any violation will result in immediate termination of your license.
+
+5. ACTIVATION & LICENSE MANAGEMENT (Optional Section If You Add Keys)
+
+If the Software includes an activation system:
+
+You may activate the Software on only one device at a time.
+
+Keys may not be shared, leaked, resold, or transferred.
+
+The Developer may temporarily or permanently deactivate keys suspected of fraud or abuse.
+
+6. SOFTWARE UPDATES
+
+The Developer may provide updates, patches, enhancements, or bug fixes at their discretion.
+Nothing in this Agreement obligates the Developer to provide future updates or ongoing support.
+
+Updates may:
+
+Add features
+
+Remove features
+
+Change UI/UX
+
+Modify internal behavior
+
+By installing updates, you agree to the terms of the updated EULA.
+
+7. USER DATA & PRIVACY
+
+All user data—including trades, screenshots, notes, and account information—is stored locally on your device.
+The Developer does not collect, transmit, or store your data.
+
+You are solely responsible for:
+
+Backing up your data
+
+Managing local storage
+
+Securing your device
+
+The Developer is not responsible for data loss, corruption, or unauthorized access caused by third-party systems.
+
+8. RESTRICTIONS
+
+You agree that you will NOT:
+
+Use the Software for illegal activities
+
+Circumvent technical protections or licensing controls
+
+Use the Software to build a competing commercial product
+
+Distribute compiled binaries or source code
+
+Extract or reproduce assets (images, sounds, logos, turtle mascot, themes)
+
+Violations may lead to legal action.
+
+9. DISCLAIMER OF WARRANTIES
+
+The Software is provided “AS IS”, without any warranty of any kind, express or implied.
+
+The Developer does not guarantee:
+
+Trading profits or financial performance
+
+Accuracy or reliability of analytics
+
+Freedom from bugs, interruptions, or errors
+
+Compatibility with future operating systems or hardware
+
+The User assumes full responsibility for use of the Software.
+
+10. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, the Developer is NOT liable for:
+
+Losses in trading or investing
+
+Loss of money, profits, revenue, or capital
+
+Loss or corruption of data
+
+Business interruption
+
+Hardware damage
+
+Any indirect, consequential, or incidental damages
+
+Your only remedy for dissatisfaction with the Software is to stop using it.
+
+11. TERMINATION
+
+This Agreement is effective until terminated.
+
+Your license automatically terminates if:
+
+You violate any terms of this Agreement
+
+You distribute the Software or share it without permission
+
+You attempt to reverse-engineer the Software
+
+You attempt to sublicense or resell it
+
+Upon termination, you must:
+
+Immediately stop using the Software
+
+Delete all copies in your possession
+
+12. REFUND POLICY
+
+Refunds, if available, follow the policy displayed at the time of purchase.
+The Developer may deny refunds for abuse, misuse, or unauthorized distribution.
+
+13. GOVERNING LAW
+
+This Agreement is governed by the laws of the Developer’s jurisdiction, regardless of conflict-of-law principles.
+
+14. ENTIRE AGREEMENT
+
+This Agreement constitutes the complete and exclusive statement of the agreement between you and the Developer.
+It supersedes all prior proposals, understandings, or communications.
+
+15. ACCEPTANCE
+
+BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY ALL TERMS OF THIS AGREEMENT.
